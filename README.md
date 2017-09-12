@@ -1,2 +1,67 @@
 # Peep
-Easy Sound Generator 🔔
+
+Easy Sound Generator
+
+[![Language](https://img.shields.io/badge/Swift-3.1-orange.svg?style=flat)](https://swift.org)
+[![Version](https://img.shields.io/cocoapods/v/Peep.svg?style=flat)](http://cocoapods.org/pods/Peep)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+
+```
+$ pod try Peep
+```
+
+## Requirements
+
+- iOS 8.0+
+- Xcode 8.0+
+- Swift 3.0+
+
+## Usage
+
+Playing sounds is super simple.
+
+```swift
+import Peep
+
+// play alert tone
+Peep.play(sound: AlertTone.tweet)
+
+// play key press
+Peep.play(sound: KeyPress.tap)
+
+// play haptic feedback
+Peep.play(sound: HapticFeedback.selection)
+
+// play url
+Peep.play(sound: Bundle.main.url(forResource: "Success", withExtension: "m4a"))
+```
+
+## Installation
+
+### CocoaPods
+To install with [CocoaPods](http://cocoapods.org/), simply add this in your `Podfile`:
+```ruby
+use_frameworks!
+pod "Peep"
+```
+
+### Carthage
+To install with [Carthage](https://github.com/Carthage/Carthage), simply add this in your `Cartfile`:
+```ruby
+github "efremidze/Peep"
+```
+
+## Communication
+
+- If you **found a bug**, open an issue.
+- If you **have a feature request**, open an issue.
+- If you **want to contribute**, submit a pull request.
+
+## Credits
+
+* https://github.com/mergesort/FeedbackEffect
+
+## License
+
+Peep is available under the MIT license. See the LICENSE file for more info.
