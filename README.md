@@ -1,11 +1,12 @@
 # Peep
 
-Easy Sound Generator
-
-[![Language](https://img.shields.io/badge/Swift-3.1-orange.svg?style=flat)](https://swift.org)
+[![Language](https://img.shields.io/badge/Swift-4-orange.svg?style=flat)](https://swift.org)
 [![Version](https://img.shields.io/cocoapods/v/Peep.svg?style=flat)](http://cocoapods.org/pods/Peep)
+[![License](https://img.shields.io/cocoapods/l/Peep.svg?style=flat)](http://cocoapods.org/pods/Peep)
+[![Platform](https://img.shields.io/cocoapods/p/Peep.svg?style=flat)](http://cocoapods.org/pods/Peep)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
+**Peep** is an easy sound generator library.
 
 ```
 $ pod try Peep
@@ -15,7 +16,7 @@ $ pod try Peep
 
 - iOS 8.0+
 - Xcode 8.0+
-- Swift 3.0+
+- Swift 4 (Peep 2.x), Swift 3 (Peep 1.x)
 
 ## Usage
 
