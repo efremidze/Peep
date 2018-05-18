@@ -1,0 +1,411 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": null,
+      "symbol": "AlertTone",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": null,
+      "symbol": "HapticFeedback",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": null,
+      "symbol": "KeyPress",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 13,
+      "symbol": "Peepable",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 14,
+      "symbol": "Peepable.play()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 17,
+      "symbol": "Peep",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 18,
+      "symbol": "Peep.play(sound:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 24,
+      "symbol": "AlertTone",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 25,
+      "symbol": "AlertTone.note",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 26,
+      "symbol": "AlertTone.aurora",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 27,
+      "symbol": "AlertTone.bamboo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 28,
+      "symbol": "AlertTone.chord",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 29,
+      "symbol": "AlertTone.circles",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 30,
+      "symbol": "AlertTone.complete",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 31,
+      "symbol": "AlertTone.hello",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 32,
+      "symbol": "AlertTone.input",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 33,
+      "symbol": "AlertTone.keys",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 34,
+      "symbol": "AlertTone.popcorn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 35,
+      "symbol": "AlertTone.pulse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 36,
+      "symbol": "AlertTone.synth",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 37,
+      "symbol": "AlertTone.alert",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 38,
+      "symbol": "AlertTone.anticipate",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 39,
+      "symbol": "AlertTone.bell",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 40,
+      "symbol": "AlertTone.bloom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 41,
+      "symbol": "AlertTone.calypso",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 42,
+      "symbol": "AlertTone.chime",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 43,
+      "symbol": "AlertTone.choochoo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 44,
+      "symbol": "AlertTone.descent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 45,
+      "symbol": "AlertTone.ding",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 46,
+      "symbol": "AlertTone.electronic",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 47,
+      "symbol": "AlertTone.fanfare",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 48,
+      "symbol": "AlertTone.glass",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 49,
+      "symbol": "AlertTone.horn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 50,
+      "symbol": "AlertTone.ladder",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 51,
+      "symbol": "AlertTone.minuet",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 52,
+      "symbol": "AlertTone.newsflash",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 53,
+      "symbol": "AlertTone.noir",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 54,
+      "symbol": "AlertTone.sherwoodforest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 55,
+      "symbol": "AlertTone.spell",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 56,
+      "symbol": "AlertTone.suspence",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 57,
+      "symbol": "AlertTone.swish",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 58,
+      "symbol": "AlertTone.swoosh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 59,
+      "symbol": "AlertTone.telegraph",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 60,
+      "symbol": "AlertTone.tiptoes",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 61,
+      "symbol": "AlertTone.tritone",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 62,
+      "symbol": "AlertTone.tweet",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 63,
+      "symbol": "AlertTone.typewriters",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 64,
+      "symbol": "AlertTone.update",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 68,
+      "symbol": "AlertTone.play()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 73,
+      "symbol": "KeyPress",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 74,
+      "symbol": "KeyPress.tap",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 78,
+      "symbol": "KeyPress.play()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 83,
+      "symbol": "HapticFeedback",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 84,
+      "symbol": "HapticFeedback.impact",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 85,
+      "symbol": "HapticFeedback.notification",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 86,
+      "symbol": "HapticFeedback.selection",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 90,
+      "symbol": "HapticFeedback.play()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/home/Documents/Peep/Sources/Peep.swift",
+      "line": 96,
+      "symbol": "URL.play()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/home/Documents/Peep"
+}
