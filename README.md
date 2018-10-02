@@ -38,6 +38,14 @@ Peep.play(sound: HapticFeedback.selection)
 Peep.play(sound: Bundle.main.url(forResource: "Success", withExtension: "m4a"))
 ```
 
+### Haptic Feedback
+
+Add haptic feedback to Peep using [Haptica](https://github.com/efremidze/Haptica).
+
+```swift
+Haptic.impact(.light).generate()
+```
+
 ## Installation
 
 ### CocoaPods
