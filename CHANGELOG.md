@@ -1,6 +1,6 @@
 # Change log
 
-## [Version 2.1.1](https://github.com/efremidze/Peep/releases/tag/2.1.1)
+## [Version 2.1.2](https://github.com/efremidze/Peep/releases/tag/2.1.2)
 Released on 2018-10-01
 
 - Swift 4.2 Support
