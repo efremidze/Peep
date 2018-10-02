@@ -1,6 +1,6 @@
 # Peep
 
-[![Language](https://img.shields.io/badge/Swift-4-orange.svg?style=flat)](https://swift.org)
+[![Build Status](https://travis-ci.org/efremidze/Peep.svg?style=flat)](https://travis-ci.org/efremidze/Peep)
 [![Version](https://img.shields.io/cocoapods/v/Peep.svg?style=flat)](http://cocoapods.org/pods/Peep)
 [![License](https://img.shields.io/cocoapods/l/Peep.svg?style=flat)](http://cocoapods.org/pods/Peep)
 [![Platform](https://img.shields.io/cocoapods/p/Peep.svg?style=flat)](http://cocoapods.org/pods/Peep)
@@ -14,7 +14,7 @@ $ pod try Peep
 
 ## Requirements
 
-- iOS 8.0+
+- iOS 10.0+
 - Xcode 8.0+
 - Swift 4 (Peep 2.x), Swift 3 (Peep 1.x)
 
@@ -36,6 +36,14 @@ Peep.play(sound: HapticFeedback.selection)
 
 // play url
 Peep.play(sound: Bundle.main.url(forResource: "Success", withExtension: "m4a"))
+```
+
+### Haptic Feedback
+
+Add haptic feedback to Peep using [Haptica](https://github.com/efremidze/Haptica).
+
+```swift
+Haptic.impact(.light).generate()
 ```
 
 ## Installation
