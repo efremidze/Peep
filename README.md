@@ -16,7 +16,7 @@ $ pod try Peep
 
 - iOS 10.0+
 - Xcode 8.0+
-- Swift 4 (Peep 2.x), Swift 3 (Peep 1.x)
+- Swift 5 (Peep 3.x), Swift 4 (Peep 2.x), Swift 3 (Peep 1.x)
 
 ## Usage
 

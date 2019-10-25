@@ -1,5 +1,10 @@
 # Change log
 
+## [Version 3.0.0](https://github.com/efremidze/Peep/releases/tag/3.0.0)
+Released on 2019-10-25
+
+- Swift 5.0 Support
+
 ## [Version 2.1.2](https://github.com/efremidze/Peep/releases/tag/2.1.2)
 Released on 2018-10-01
 
