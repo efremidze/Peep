@@ -1,10 +1,11 @@
 # Peep
 
-[![Build Status](https://travis-ci.org/efremidze/Peep.svg?style=flat)](https://travis-ci.org/efremidze/Peep)
-[![Version](https://img.shields.io/cocoapods/v/Peep.svg?style=flat)](http://cocoapods.org/pods/Peep)
-[![License](https://img.shields.io/cocoapods/l/Peep.svg?style=flat)](http://cocoapods.org/pods/Peep)
-[![Platform](https://img.shields.io/cocoapods/p/Peep.svg?style=flat)](http://cocoapods.org/pods/Peep)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![CI](https://github.com/efremidze/Peep/actions/workflows/ci.yml/badge.svg)](https://github.com/efremidze/Peep/actions/workflows/ci.yml)
+[![CocoaPods](https://img.shields.io/cocoapods/v/Peep.svg)](https://cocoapods.org/pods/Peep)
+[![Carthage](https://img.shields.io/badge/Carthage-compatible-brightgreen.svg)](https://github.com/Carthage/Carthage)
+[![SPM](https://img.shields.io/badge/SPM-compatible-brightgreen.svg)](https://swift.org/package-manager/)
+[![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org)
+[![License](https://img.shields.io/github/license/efremidze/Peep.svg)](https://github.com/efremidze/Peep/blob/master/LICENSE)
 
 **Peep** is an easy sound generator library.
 
